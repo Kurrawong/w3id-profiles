@@ -23,6 +23,7 @@ All the profiles below are presented in accordance with the [W3C's Profiles Voca
 --- | --- | ---
 Concise Bounded Description | <https://w3id.org/profile/cbd> | [experimental](https://linked.data.gov.au/def/reg-statuses/experimental)
 Container Annotations | <https://w3id.org/profile/contanno> | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
+DCAT Null Profile | <https://w3id.org/profile/dcatnull> | [experimental](https://linked.data.gov.au/def/reg-statuses/experimental)
 OGC Linked Data API | <https://w3id.org/profile/ogcldapi> | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
 Ontology Publications | <https://w3id.org/profile/ontpub> | [experimental](https://linked.data.gov.au/def/reg-statuses/stable)
 Profiles Catalogue | <https://w3id.org/profile/profcat> | [experimental](https://linked.data.gov.au/def/reg-statuses/experimental)
