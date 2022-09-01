@@ -1,8 +1,8 @@
-# Fundamental Profiles Register
+# W3ID Profiles Register
 
-A list of fundamental profiles, that is profiles that are commonly seen/needed and widely applicable.
+A list of data profiles - standards that constrain other standards - for [Knowledge Graph](https://www.w3.org/RDF/) applications.
 
-'Profiles' are formalised _standards_, as defined by the [W3C's Profiles Vocabulary](https://www.w3.org/TR/dx-prof/).
+All the profiles below are presented in accordance with the [W3C's Profiles Vocabulary](https://www.w3.org/TR/dx-prof/).
 
 ## Metadata
 
@@ -17,11 +17,9 @@ A list of fundamental profiles, that is profiles that are commonly seen/needed a
 * **Persistent Identifier**
   * [`https://w3id.org/profile/`](https://w3id.org/profile/)
 
-## Members
+## Profiles
 
-All these members are profiles.
-
-**Registered Item** | **IRI** | **Status**
+**Profile** | **Persistent IRI** | **Status**
 --- | --- | ---
 Concise Bounded Description | <https://w3id.org/profile/cbd> | [experimental](https://linked.data.gov.au/def/reg-statuses/experimental)
 Container Annotations | <https://w3id.org/profile/contanno> | [stable](https://linked.data.gov.au/def/reg-statuses/stable)
