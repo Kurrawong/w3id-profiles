@@ -5,9 +5,9 @@ A profile of a [SKOS](https://www.w3.org/TR/skos-reference/) that is intended to
 ## Metadata
 
 * **Creator**
-  * Nicholas J. Car
+  * [Nicholas J. Car](https://orcid.org/0000-0002-8742-7730)
 * **Publisher**
-  * [Kurrawong AI](https://kurrawong.net) & [ANU](https://cecc.anu.edu.au/people/nicholas-car)
+  * [KurrawongAI](https://kurrawong.net) & [ANU](https://www.anu.edu.au)
 * **Created**
   * 2018-06-30
 * **Modified**

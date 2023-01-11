@@ -3,7 +3,7 @@ PREFIX prof: <http://www.w3.org/ns/dx/prof/>
 PREFIX sdo: <https://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
-<https://w3id.org/profile/dd>
+<https://w3id.org/profile/prez>
     a prof:Profile ;
     dcterms:created "2018-06-30"^^xsd:date ;
     dcterms:creator <https://orcid.org/0000-0002-8742-7730> ;
@@ -11,6 +11,6 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     dcterms:license <https://purl.org/NET/rdflicense/cc-by4.0> ;
     dcterms:modified "2023-01-11"^^xsd:date ;
     dcterms:publisher <https://www.kurrawong.net> ;
-    dcterms:rights "(c) 2021 Open Geospatial Consortium" ;
-    dcterms:title "Drop-Down Profile" ;
+    dcterms:rights "(c) 2022 KurrawongAI" ;
+    dcterms:title "Prez Profile" ;
 .

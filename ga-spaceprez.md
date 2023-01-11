@@ -1,13 +1,13 @@
-# GA Spaceprez Profile
+# GA SpacePrez Profile
 
-A Profile of the [SpacePrez Profile], created specifically for Geoscience Australia data.
+A Profile of the [SpacePrez Profile](https://w3id.org/profile/spaceprez), created specifically for Geoscience Australia data.
 
 ## Metadata
 
 * **Creator**
-  * Nicholas J. Car
+  * [Nicholas J. Car](https://orcid.org/0000-0002-8742-7730)
 * **Publisher**
-  * [Kurrawong AI](https://kurrawong.net) & [ANU](https://cecc.anu.edu.au/people/nicholas-car)
+  * [KurrawongAI](https://kurrawong.net) & [ANU](https://www.anu.edu.au)
 * **Created**
   * 2021-08-15
 * **Modified**

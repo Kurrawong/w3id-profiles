@@ -8,7 +8,7 @@ A list of data profiles - standards that constrain other standards - for [Knowle
 * **Creator**
   * Nicholas J. Car
 * **Publisher**
-  * [Kurrawong AI](https://kurrawong.net) & [ANU](https://cecc.anu.edu.au/people/nicholas-car)
+  * [KurrawongAI](https://kurrawong.net) & [ANU](https://www.anu.edu.au)
 * **Created**
   * 2021-08-15
 * **Modified**

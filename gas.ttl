@@ -1,0 +1,17 @@
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX prof: <http://www.w3.org/ns/dx/prof/>
+PREFIX sdo: <https://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+<https://w3id.org/profile/gas>
+    a prof:Profile ;
+    dcterms:created "2022-07-01"^^xsd:date ;
+    dcterms:creator <https://orcid.org/0000-0002-8742-7730> , <https://orcid.org/0000-0002-3322-1868> ;
+    dcterms:description "A profile of a SOSA (http://www.w3.org/ns/sosa/) that specifically caters for Geoscience Australia's (https://www.ga.gov.au) internal Samples database's data model."@en ;
+    dcterms:license <https://purl.org/NET/rdflicense/cc-by4.0> ;
+    dcterms:modified "2023-01-11"^^xsd:date ;
+    dcterms:publisher <https://www.kurrawong.net> ;
+    dcterms:rights "(c) 2022 KurrawongAI" ;
+    dcterms:title "Geoscience Australia Samples Profile" ;
+.
+
