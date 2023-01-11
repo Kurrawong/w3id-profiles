@@ -1,0 +1,22 @@
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX prof: <http://www.w3.org/ns/dx/prof/>
+PREFIX sdo: <https://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+<https://w3id.org/profile/dd>
+    a prof:Profile ;
+    dcterms:created "2018-06-30"^^xsd:date ;
+    dcterms:creator "OGC GeoSPARQL Standards Working Group" ;
+    dcterms:description "A profile of a SKOS (https://www.w3.org/TR/skos-reference/) that is intended to deliver data that can be used to populate web form drop-down lists."@en ;
+    dcterms:license <https://purl.org/NET/rdflicense/cc-by4.0> ;
+    dcterms:modified "2023-01-11"^^xsd:date ;
+    dcterms:publisher <https://www.kurrawong.net> ;
+    dcterms:rights "(c) 2021 Open Geospatial Consortium" ;
+    dcterms:title "GeoSPARQL 1.1 Profile" ;
+.
+
+<https://www.kurrawong.net>
+    a sdo:Organization ;
+    sdo:name "KurrawongAI" ;
+    sdo:url "https://kurrawong.net"^^xsd:anyURI ;
+.

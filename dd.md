@@ -1,6 +1,6 @@
 # Drop-Down Profile
 
-This is a profile of a [SKOS]() that is intended to deliver data that can be used to populate web form drop-down lists.
+A profile of a [SKOS](https://www.w3.org/TR/skos-reference/) that is intended to deliver data that can be used to populate web form drop-down lists.
 
 ## Metadata
 
